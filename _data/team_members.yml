@@ -1,117 +1,91 @@
 - name: Toeno van der Sar
-  photo: Toeno.jpg
-  info: Associate professor, started Aug. 2017
+  photo: Toeno_sq.jpg
+  info: Associate professor
   email: t.vandersar@tudelft.nl
+  office: D108
   number_educ: 3
   education1: Postdoc with <a href="https://yacoby.physics.harvard.edu/">Amir Yacoby</a> @ Harvard/IQC 
   education2: PhD with <a href="https://qutech.nl/lab/hanson-lab/">Ronald Hanson </a> @ TU Delft 
   education3: MSc thesis with <a href="https://qutech.nl/hansmooij/"> Hans Mooij</a> @ TU Delft
 
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+- name: Lizzy Groote
+  photo: Lizzy_sq.jpg
+  info: Management Assistant
+  email: L.Groote@tudelft.nl
+  office: F166
+  number_educ: 0
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: Samer Kurdi
+  photo: SamerKurdi_sq.jpg
+  info: postdoc, since April 2020
+  email: S.Kurdi@tudelft.nl
+  office: D110
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
-- name: Jinwon Lee
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD fellowship
-  education3:
-  education4:
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: NWO Veni fellow, collaborating with us and stationed in the <a href="https://ottelab.tudelft.nl">Otte Lab</a>
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 4
-  education1: Postdoc in the Otte Lab, Leiden University
-  education2: Postdoc in the Allan Lab, Leiden University
-  education3: PhD with Milan Allan, Leiden University (started Sep 2015)
-  education4: Master Leiden University with Milan Allan
-
+  education1: PhD Cambridge University UK
+  education2: MSc University of Waterloo CA
 
 - name: Kaveh Lahabi
-  photo: Kaveh.png
-  info: NWO Veni fellow, collaborating with us and the <a href="https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/van-der-sar-lab/">van der Sar lab</a>
-  email: Bastiaans@Physics.LeidenUniv.nl
+  photo: Kaveh_sq.jpg
+  info: NWO Veni fellow, collaborating with us and the <a href="https://www.allanlab.org/">Allan Lab</a>
+  email: K.Lahabi-2@tudelft.nl
   number_educ: 3
-  education1: Postdoc in the Aarts Lab, Leiden University
+  education1: Postdoc with Jan Aarts, Leiden University
   education2: PhD with Jan Aarts
   education3: Master KU Leuven
 
+- name: Brecht Simon
+  photo: Brecht_sq.jpg
+  info: PhD Student, since Oct 2018
+  email: B.G.Simon@tudelft.nl
+  office: F190
+  number_educ: 1
+  education1: Master Leiden University
+
+- name: Joris Jip Carmiggelt
+  photo: Joris_sq.jpg
+  info: PhD Student, since Nov. 2018
+  email: J.J.Carmiggelt@Tudelft.nl
+  office: F190
+  number_educ: 2
+  education1: Master Leiden University
+  education2: Casimir/Nanofront PhD fellowship
+
+- name: Yufan Li
+  photo: Yufan_sq.jpg
+  info: PhD Student, with <a href="https://www.tudelft.nl/3me/over/afdelingen/precision-and-microsystems-engineering-pme/people/assistant-professors/richard-norte">Norte Lab</a>, since Aug. 2022
+  email: Y.Li-33@tudelft.nl
+  office: D115
+  number_educ: 1
+  education1: Master ETH Zurich
+
+- name: Annick Teepe
+  photo: AnnickTeepe_sq.jpg
+  info: PhD Student, since Jan. 2022
+  email: A.Teepe@tudelft.nl
+  office: E110
+  number_educ: 1
+  education1: Master TU Delft
+
+- name: Roland Mulder
+  photo: RolandMulder_sq.jpg
+  info: PhD Student, since May 2022
+  email: R.W.Mulder-1@tudelft.nl
+  office: D113
+  number_educ: 1
+  education1: Master TU Delft
+
+- name: Pim Vree
+  photo: PimVree_sq.jpg
+  info: PhD Student, since Aug. 2022
+  email: P.Vree@tudelft.nl
+  office: F190
+  number_educ: 1
+  education1: Master TU Delft
+
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See Vacancies for more info
+  email: t.vandersar@tudelft.nl
   number_educ: 0
   education1:
   education2:
