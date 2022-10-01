@@ -134,7 +134,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## Graduated PhDs
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -146,9 +146,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.info }} <br> </i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -167,11 +167,15 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<h4>PhDs/postdocs/visitors</h4>
+{% for member in site.data.alumni_members %}
+{{ member.name }}
+{{ member.info }}
+{% endfor %}
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
@@ -195,4 +199,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Management Support
-<a href="mailto:L.Groote@tudelft.nl">Lizzy Groote</a> is supporting us and other groups with the management and administration.
+<a href="mailto:L.Groote@tudelft.nl">Lizzy Groote</a> is supporting us (and other groups) with management and administration.
