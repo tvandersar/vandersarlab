@@ -51,7 +51,7 @@ We are located at [Delft University of Technology](https://www.tudelft.nl/), hom
 
 **We are looking for talented and passionate Master students and PhDs. You can find more information here!** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-We are grateful for funding from Delft University of Technology, [NWO](www.nwo.nl), the [Frontiers in Nanoscience program](https://casimir.researchschool.nl/nanofront-1962.html), and the [Kavli Foundation](http://www.kavlifoundation.org/).
+We are grateful for funding from Delft University of Technology, [NWO](https://www.nwo.nl), the [Frontiers in Nanoscience program](https://casimir.researchschool.nl/nanofront-1962.html), and the [Kavli Foundation](http://www.kavlifoundation.org/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.jpg" style="width: 200px">
