@@ -35,7 +35,7 @@
 
 - name: Brecht Simon
   photo: Brecht_sq.jpg
-  info: PhD Student, since Oct 2018
+  info: PhD Student, since Oct. 2018
   email: B.G.Simon@tudelft.nl
   office: F190
   number_educ: 1
@@ -49,6 +49,14 @@
   number_educ: 2
   education1: Master Leiden University
   education2: Casimir/Nanofront PhD fellowship
+  
+  - name: Michael Borst
+  photo: rock.jpg
+  info: PhD Student, since Apr. 2019
+  email: M.Borst@tudelft.nl
+  office: D113
+  number_educ: 1
+  education1: Master TU Delft
 
 - name: Yufan Li
   photo: Yufan_sq.jpg
