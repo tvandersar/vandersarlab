@@ -4,8 +4,8 @@
   email: t.vandersar@tudelft.nl
   office: D108
   number_educ: 3
-  education1: Postdoc with <a href="https://yacoby.physics.harvard.edu/">Amir Yacoby</a> @ Harvard & IQC 
-  education2: PhD with <a href="https://qutech.nl/lab/hanson-lab/">Ronald Hanson </a> @ TU Delft 
+  education1: Postdoc with <a href="https://yacoby.physics.harvard.edu/">Amir Yacoby</a> @ Harvard & IQC
+  education2: PhD with <a href="https://qutech.nl/lab/hanson-lab/">Ronald Hanson </a> @ TU Delft
   education3: MSc thesis with <a href="https://qutech.nl/hansmooij/"> Hans Mooij</a> @ TU Delft
 
 - name: Lizzy Groote
@@ -49,7 +49,7 @@
   number_educ: 2
   education1: Master Leiden University
   education2: Casimir/Nanofront PhD fellowship
-  
+
 - name: Michael Borst
   photo: rock.jpg
   info: PhD Student, since Apr. 2019
@@ -78,7 +78,7 @@
   photo: RolandMulder_sq.jpg
   info: PhD Student, since May 2022
   email: R.W.Mulder-1@tudelft.nl
-  office: D113
+  office: D115
   number_educ: 1
   education1: Master TU Delft
 
