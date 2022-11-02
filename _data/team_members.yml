@@ -11,14 +11,14 @@
 - name: Lizzy Groote
   photo: Lizzy_sq.jpg
   info: Management Assistant
-  email: L.Groote@tudelft.nl
+  email: l.groote@tudelft.nl
   office: F166
   number_educ: 0
 
 - name: Samer Kurdi
   photo: SamerKurdi_sq.jpg
   info: postdoc, since April 2020
-  email: S.Kurdi@tudelft.nl
+  email: s.kurdi@tudelft.nl
   office: D110
   number_educ: 2
   education1: PhD Cambridge University UK
@@ -27,7 +27,7 @@
 - name: Kaveh Lahabi
   photo: Kaveh_sq.jpg
   info: NWO Veni fellow, collaborating with us and the <a href="https://www.allanlab.org/">Allan Lab</a>
-  email: K.Lahabi-2@tudelft.nl
+  email: k.lahabi-2@tudelft.nl
   number_educ: 3
   education1: Postdoc with Jan Aarts, Leiden University
   education2: PhD with Jan Aarts
@@ -36,7 +36,7 @@
 - name: Brecht Simon
   photo: Brecht_sq.jpg
   info: PhD Student, since Oct. 2018
-  email: B.G.Simon@tudelft.nl
+  email: b.g.simon@tudelft.nl
   office: F190
   number_educ: 1
   education1: Master Leiden University
@@ -44,7 +44,7 @@
 - name: Joris Jip Carmiggelt
   photo: Joris_sq.jpg
   info: PhD Student, since Nov. 2018
-  email: J.J.Carmiggelt@Tudelft.nl
+  email: j.j.carmiggelt@tudelft.nl
   office: F190
   number_educ: 2
   education1: Master Leiden University
@@ -53,7 +53,7 @@
 - name: Michael Borst
   photo: rock.jpg
   info: PhD Student, since Apr. 2019
-  email: M.Borst@tudelft.nl
+  email: m.borst@tudelft.nl
   office: D113
   number_educ: 1
   education1: Master TU Delft
@@ -61,7 +61,7 @@
 - name: Yufan Li
   photo: Yufan_sq.jpg
   info: PhD Student, with <a href="https://www.tudelft.nl/3me/over/afdelingen/precision-and-microsystems-engineering-pme/people/assistant-professors/richard-norte">Norte Lab</a>, since Aug. 2020
-  email: Y.Li-33@tudelft.nl
+  email: y.li-33@tudelft.nl
   office: D115
   number_educ: 1
   education1: Master ETH Zurich
@@ -69,7 +69,7 @@
 - name: Annick Teepe
   photo: AnnickTeepe_sq.jpg
   info: PhD Student, since Feb. 2022
-  email: A.Teepe@tudelft.nl
+  email: a.teepe@tudelft.nl
   office: E110
   number_educ: 1
   education1: Master TU Delft
@@ -77,7 +77,7 @@
 - name: Roland Mulder
   photo: RolandMulder_sq.jpg
   info: PhD Student, since May 2022
-  email: R.W.Mulder-1@tudelft.nl
+  email: r.w.mulder-1@tudelft.nl
   office: D115
   number_educ: 1
   education1: Master TU Delft
@@ -85,7 +85,7 @@
 - name: Pim Vree
   photo: PimVree_sq.jpg
   info: PhD Student, since Aug. 2022
-  email: P.Vree@tudelft.nl
+  email: p.vree@tudelft.nl
   office: E110
   number_educ: 1
   education1: Master TU Delft

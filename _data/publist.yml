@@ -2,158 +2,158 @@
   image: Blender_img_1400x700_NVtipSpinwave.png
   description: Nanoscale spin waves are promising as on-chip signal carriers. We use a single spin in diamond to reveal the surprising multitude of spin waves excited by a microwave stripline.
   authors: B. G. Simon\*, S. Kurdi\*, J. J. Carmiggelt, M. Borst, A. Katan, and T. van der Sar
-  link:  
-    url: https://arxiv.org/abs/2207.02798
-    display: arXiv:2207.02798 (2022)
+  link:
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.2c02791
+    display: Nano Letters 2022
   highlight: 1
 
-- title: "Broadband microwave detection using electron spins in a hybrid diamond-magnet sensor chip" 
+- title: "Broadband microwave detection using electron spins in a hybrid diamond-magnet sensor chip"
   image: Blender_img_SpinWaveMixing.jpg
   description: Spins in diamond are high-sensitivity microwave sensors, but their sensitivity is limited to their resonance frequency. We expand the detection range using spin-wave mixing in a diamond-magnet sensor chip.
   authors: J. J. Carmiggelt, I. Bertelli, R. Mulder, A. Teepe, M. Elyasi, B. G. Simon, G. E. W. Bauer, Y. M. Blanter, and T. van der Sar
-  link: 
+  link:
     url: https://arxiv.org/abs/2206.07013
     display: arXiv:2206.07013 (2022)
   highlight: 1
 
-- title: "Roadmap on spin-wave computing " 
+- title: "Roadmap on spin-wave computing "
   image: Fig_SpinWaveRoadmap.png
   description: This roadmap features our spin-wave imaging techniques in the context of pushing spin-wave technology towards applications. Many thanks to prof. Andrii Chumak (Vienna Univ.) for coordinating.
   authors: A.V. Chumak, P. Kabos, M. Wu, ...., J.J. Carmiggelt, Y. Blanter, T. van der Sar, ... et al.
-  link: 
+  link:
     url: https://ieeexplore.ieee.org/document/9706176
     display: IEEE Transactions on Magnetics 58, 6 (2022)
   highlight: 1
 
 - title: "Nanomechanical probing and strain tuning of the Curie temperature in suspended Cr2Ge2Te6 heterostructures "
   image: SiskinsKurdi_CGTmembrane.png
-  description: Phase transitions of 2D magnets detected via mechanical resonance - a collaboration with profs. Steeneken, van der Zant and Han 
-  authors: M Siskins, S Kurdi, M Lee, BJM Slotboom, W Xing, S Mañas-Valero, E Coronado, S Jia, W Han, T van der Sar, H van der Zant, P. G. Steeneken 
-  link: 
-    url: https://rdcu.be/cPGYh  
-    display:  npj 2D Materials and Applications 6:41 (2022) 
+  description: Phase transitions of 2D magnets detected via mechanical resonance - a collaboration with profs. Steeneken, van der Zant and Han
+  authors: M Siskins, S Kurdi, M Lee, BJM Slotboom, W Xing, S Mañas-Valero, E Coronado, S Jia, W Han, T van der Sar, H van der Zant, P. G. Steeneken
+  link:
+    url: https://rdcu.be/cPGYh
+    display:  npj 2D Materials and Applications 6:41 (2022)
   highlight: 1
 
-- title: "Towards a quantum interface between spin waves and paramagnetic spin baths" 
+- title: "Towards a quantum interface between spin waves and paramagnetic spin baths"
   image: Gonzales_PRB2020_SpinwaveNVcoupling.png
   authors: C. Gonzalez-Ballestero, T. van der Sar, and O. Romero-Isart
-  link: 
+  link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.075410
     display: Physical Review B 105, 075410 (2022)
   highlight: 1
   news2: See also [arXiv:2012.00540](https://arxiv.org/abs/2012.00540)
 
 - title: "Electrical spectroscopy of the spin-wave dispersion and bistability in gallium-doped yttrium iron garnet"
-  image: GaYIG_Fig4.png 
+  image: GaYIG_Fig4.png
   description: We demonstrate the rapid foldover of spin-wave modes in Ga:YIG and extract its magnetic anisotropy
   authors: J.J. Carmiggelt, O.C. Dreijer, C. Dubs, O. Surzhenko, and T. van der Sar
-  link: 
+  link:
     url: https://aip.scitation.org/doi/10.1063/5.0070796
-    display: Applied Physics Letters 119, 202403 (2021); 
+    display: Applied Physics Letters 119, 202403 (2021);
   highlight: 1
   news2: See also [arXiv:2109.05045](https://arxiv.org/abs/2109.05045)
 
-- title: "Directional excitation of a high-density magnon gas using coherently driven spin waves" 
-  image: Simons2021_NanoLetters_VisualAbstract_DirectionalSpinWaves.png 
+- title: "Directional excitation of a high-density magnon gas using coherently driven spin waves"
+  image: Simons2021_NanoLetters_VisualAbstract_DirectionalSpinWaves.png
   description: We reveal the surprisingly high-density magnon gas that a spin wave in YIG leaves in its wake
   authors: B. G. Simon\*, S. Kurdi\*, H. La, I. Bertelli, J.J. Carmiggelt, M. Ruf, N. de Jong, H. van den Berg, A. Katan, and T. van der Sar
-  link: 
+  link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.1c02654
     display: Nano Letters, Oct. 1, 2021
   highlight: 1
 
-- title: "Imaging spin-wave damping underneath metals using electron spins in diamond " 
-  image: FigToC_AdvQTech_SpinWaveDamping.png 
+- title: "Imaging spin-wave damping underneath metals using electron spins in diamond "
+  image: FigToC_AdvQTech_SpinWaveDamping.png
   description: Our NV centers detect spin waves by their magnetic fields, enabling us to look through metals at spin waves underneath. We reveal eddy-current spin-wave damping and show how to extract properties of hybrid metal - spin-wave systems.
   authors: I. Bertelli, B. G. Simon, J. Aarts, G. E. W. Bauer, Y. M. Blanter and T. van der Sar
-  link: 
+  link:
     url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/qute.202100094
-    display: Advanced Quantum Technologies 2021, 2100094 
+    display: Advanced Quantum Technologies 2021, 2100094
   highlight: 1
 
 - title: "Diamond-based quantum technologies"
-  image: spin_waves18_11z_00110_small.jpg 
+  image: spin_waves18_11z_00110_small.jpg
   description: A popular-science article about quantum networks, computing, and sensing with spins in diamond.
   authors: Toeno van der Sar, Tim Taminiau, Ronald Hanson
-  link: 
+  link:
     url: https://www.photoniques.com/articles/photon/abs/2021/02/photon2021107p44/photon2021107p44.html
-    display: Photoniques 107, 44 (2021) 
+    display: Photoniques 107, 44 (2021)
   highlight: 1
 
-- title: "Magnetic imaging and statistical analysis of the metamagnetic phase transition of FeRh with electron spins in diamond" 
-  image: Fig_NavaAntonio.png 
+- title: "Magnetic imaging and statistical analysis of the metamagnetic phase transition of FeRh with electron spins in diamond"
+  image: Fig_NavaAntonio.png
   description: We study the formation of magnetic domains during a phase transition using statistical quantities defined on real-space magnetic images.
   authors: G. Nava Antonio\*, I. Bertelli\*, B. G. Simon, R. Medapalli, D. Afanasiev, and T. van der Sar
-  link: 
-    url: https://aip.scitation.org/doi/10.1063/5.0051791 
-    display: Journal of Applied Physics 129, 223904 (2021) 
+  link:
+    url: https://aip.scitation.org/doi/10.1063/5.0051791
+    display: Journal of Applied Physics 129, 223904 (2021)
   highlight: 1
   news2: See also [Arxiv:2104.02814](https://arxiv.org/2104.02814)
 
-- title: "Diamant onthult golvende spinzee (Dutch, meaning \"Diamond reveals waves in the spin sea\")" 
+- title: "Diamant onthult golvende spinzee (Dutch, meaning \"Diamond reveals waves in the spin sea\")"
   image: Carmiggelt_NVTN2021.png
-  description: A popular-science article on magnetic imaging of spin waves with spins in diamond in the Dutch Journal of Physics 
-  authors: J. J. Carmiggelt, B. G. Simon, I. Bertelli, T. van der Sar 
-  link: 
+  description: A popular-science article on magnetic imaging of spin waves with spins in diamond in the Dutch Journal of Physics
+  authors: J. J. Carmiggelt, B. G. Simon, I. Bertelli, T. van der Sar
+  link:
     url: https://www.ntvn.nl/Spinsensoren/
-    display: Nederlands Tijdschrift voor Natuurkunde, Juni 2021 
+    display: Nederlands Tijdschrift voor Natuurkunde, Juni 2021
   highlight: 1
 
-- title: "Sensing chiral magnetic noise via quantum impurity relaxometry" 
+- title: "Sensing chiral magnetic noise via quantum impurity relaxometry"
   image: Rustagi2020_ChiralSpinWaveNoise.png
-  description: We show how to extract a magnet's saturation magnetization from the magnetic fields generated by thermal spin waves 
-  authors: A. Rustagi, I. Bertelli, T. van der Sar, and P. Upadhyaya 
-  link: 
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.220403 
-    display: Phys. Rev. B rapid comm. 102 , 220403 (2020) 
+  description: We show how to extract a magnet's saturation magnetization from the magnetic fields generated by thermal spin waves
+  authors: A. Rustagi, I. Bertelli, T. van der Sar, and P. Upadhyaya
+  link:
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.220403
+    display: Phys. Rev. B rapid comm. 102 , 220403 (2020)
   highlight: 1
   news2: See also [Arxiv:2009.05060](https://arxiv.org/abs/2009.05060)
 
-- title: "Exciton-to-trion conversion as a control mechanism for valley polarization in room-temperature monolayer WS2" 
+- title: "Exciton-to-trion conversion as a control mechanism for valley polarization in room-temperature monolayer WS2"
   image: Carmiggelt2020_SciRep_ValleyPolarization.png
   description: 2D semiconductors play a central role in valleytronics, which aims to encode information in valley-polarized excitons. We show that valley polarization can be enhanced by quenching the exciton lifetime via chemical doping.
   authors:   J. J. Carmiggelt\*, M. Borst\*, and T. van der Sar
-  link: 
+  link:
     url:  https://www.nature.com/articles/s41598-020-74376-3
-    display: Scientific Reports 10 , 17389 (2020 
+    display: Scientific Reports 10 , 17389 (2020
   highlight: 1
 
-- title: "Magnetic resonance imaging of spin-wave transport and interference in a magnetic insulator" 
+- title: "Magnetic resonance imaging of spin-wave transport and interference in a magnetic insulator"
   image: Bertelli2020_SciAdv_ImagingSpinwaves.png
   description: Spin waves are collective exctiations in magnetic materials that are promising signal carriers. We introduce a new technique for imaging spin waves, based on NV spins in diamond. In contrast with other techniques, it detects spin waves via their microwave magnetic fields, enabling high-resolution imaging through optically opaque materials.
   authors: I. Bertelli, J. J. Carmiggelt, T. Yu, B. G. Simon, C. C. Pothoven, G. E. W. Bauer, Y. M. Blanter, J. Aarts, and T. van der Sar
-  link: 
+  link:
     url: https://advances.sciencemag.org/content/6/46/eabd3556
-    display: Science Advances 6, eabd3556 (2020) 
+    display: Science Advances 6, eabd3556 (2020)
   highlight: 1
 
-- title: "Nanoscale detection of magnon excitations with variable wavevectors through a quantum spin sensor" 
+- title: "Nanoscale detection of magnon excitations with variable wavevectors through a quantum spin sensor"
   image: Wong2020_nanoscaleMagnonDetection.png
-  description: 
+  description:
   authors: E. Lee-Wong, R. Xue, F. Ye, A. Kreisel, T. van der Sar, A. Yacoby and C. Du
-  link: 
+  link:
     url: https://doi.org/10.1021/acs.nanolett.0c00085
-    display: Nano Lett. 2020, 20, 5, 3284 
+    display: Nano Lett. 2020, 20, 5, 3284
   highlight: 0
   news2: See also [Arxiv:2009.05060](https://arxiv.org/abs/2009.05060)
 
-- title: "Spin-torque oscillation in a magnetic insulator probed by a single-spin sensor" 
-  image: 
-  description: 
+- title: "Spin-torque oscillation in a magnetic insulator probed by a single-spin sensor"
+  image:
+  description:
   authors: H. Zhang\*, M. Ku\*, F. Casola, C. Du, T. van der Sar, M. Onbasli, C. Ross, Y. Tserkovnyak, A. Yacoby, and R. Walsworth
-  link: 
+  link:
     url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.024404
-    display: Physical Review B 102, 024404 (2020) 
+    display: Physical Review B 102, 024404 (2020)
   highlight: 0
   news2: See also [Arxiv:1810.07306](https://arxiv.org/abs/1810.07306)
 
-- title: "Electrical generation and detection of spin waves in a quantum Hall ferromagnet"  
-  image: 
-  description: 
+- title: "Electrical generation and detection of spin waves in a quantum Hall ferromagnet"
+  image:
+  description:
   authors: D. S. Wei, T. van der Sar, S.H. Lee, K. Watanabe, T. Taniguchi, B. I. Halperin, and A. Yacoby
-  link: 
+  link:
     url:  http://science.sciencemag.org/content/362/6411/229
-    display: Science 362, 229 (2018); 
+    display: Science 362, 229 (2018);
   highlight: 0
   news2: See also [Arxiv:1801.08534](https://arxiv.org/abs/1801.08534)
 
@@ -161,135 +161,135 @@
   image: Fig1C_NatRevMat.png
   description: We highlight how electronic sensor spins in diamond couple to spins and currents in materials for condensed-matter research
   authors: F. Casola\*, T. van der Sar\*, and A. Yacoby
-  link: 
+  link:
     url: https://rdcu.be/LFQp
     display: Nature Reviews Materials 3, 17088 (2018)
   highlight: 1
 
-- title: Control and Local Measurement of the Spin Chemical Potential in a Magnetic Insulator 
-  image: 
-  description: 
+- title: Control and Local Measurement of the Spin Chemical Potential in a Magnetic Insulator
+  image:
+  description:
   authors: C. Du*, T. van der Sar*, T. X. Zhou*, P. Upadhyaya, F. Casola, H. Zhang, M. C. Onbasli, C. A. Ross, R. Walsworth, Y. Tserkovnyak, A. Yacoby
-  link: 
+  link:
     url: http://science.sciencemag.org/content/357/6347/195
     display: Science 357, 195 (2017)
   highlight: 0
   news2: See also [Arxiv:1611.07408](https://arxiv.org/abs/1611.07408)
-  
-- title: "Ienie-mienie magnetisme (Dutch, meaning \"Teeny-tiny magnetism\")" 
-  image: 
+
+- title: "Ienie-mienie magnetisme (Dutch, meaning \"Teeny-tiny magnetism\")"
+  image:
   description: Article about our new lab by J. Keulen
   authors: J. Keulen
-  link: 
+  link:
     url: https://www.deingenieur.nl/artikel/delftse-groep-meet-magneetvelden-met-diamant
     display: De Ingenieur, September 2017
   highlight: 0
-  
+
 - title: "Nanometre-scale probing of spin waves using single electron spins"
-  image: 
-  description: 
+  image:
+  description:
   authors: T. van der Sar*, F. Casola*, R. Walsworth and A. Yacoby
-  link: 
+  link:
     url: https://www.nature.com/articles/ncomms8886
     display: Nature Communications 6, 7886 (2015)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Universal control and error correction in multi-qubit spin registers in diamond"
-  image: 
-  description: 
+  image:
+  description:
   authors: T. H. Taminiau, J. Cramer, T. van der Sar, V. V. Dobrovitski, and R. Hanson
-  link: 
+  link:
     url: https://www.nature.com/nnano/journal/v9/n3/full/nnano.2014.2.html
-    display: Nature Nanotechnology 9, 171 (2014) 
+    display: Nature Nanotechnology 9, 171 (2014)
   highlight: 0
   news2: See also [Arxiv:1309.5452](https://arxiv.org/abs/1309.5452)
 
-- title: "Detection and control of individual nuclear spins using a weakly coupled electron spin" 
-  image: 
-  description: 
+- title: "Detection and control of individual nuclear spins using a weakly coupled electron spin"
+  image:
+  description:
   authors: T. H. Taminiau, J. J. T. Wagenaar, T. van der Sar, F. Jelezko, V. V. Dobrovitski, and R. Hanson
-  link: 
+  link:
     url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.137602
-    display: Physics Review Letters 109, 137602 (2012) 
+    display: Physics Review Letters 109, 137602 (2012)
   highlight: 0
   news2: See also [Arxiv:1205.4148](https://arxiv.org/abs/1205.4148)
 
 - title: "Controlling the quantum dynamics of a mesoscopic spin bath in diamond"
-  image: 
-  description: 
+  image:
+  description:
   authors: G. de Lange, T. van der Sar, M. S. Blok, Z. H. Wang, V. V. Dobrovitski, and R. Hanson
-  link: 
+  link:
     url: https://www.nature.com/articles/srep00382
     display: Scientific Reports 2, 382 (2012)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Decoherence-protected quantum gates for a hybrid solid-state spin register"
-  image: 
-  description: 
+  image:
+  description:
   authors: T. van der Sar, Z. H. Wang, M. S. Blok, H. Bernien, T. H. Taminiau, D.M. Toyli, D. A. Lidar, D. D. Awschalom, R. Hanson, and V. V. Dobrovitski
-  link: 
+  link:
     url: https://www.nature.com/articles/nature10900
     display: Nature 484, 82 (2012)
   highlight: 0
   news2: See also [Arxiv:1201.4379](https://arxiv.org/abs/1201.4379)
 
 - title: "Effect of a nanoparticle on the optical properties of a photonic crystal cavity: theory and experiment"
-  image: 
-  description: 
+  image:
+  description:
   authors: T. van der Sar, J. Hagemeier, W. Pfaff, E.C. Heeres, S. M. Thon, H. Kim, P. M. Petroff, T. H. Oosterkamp, D. Bouwmeester, and R. Hanson
-  link: 
+  link:
     url: https://www.osapublishing.org/josab/abstract.cfm?uri=josab-29-4-698
     display: Journal of the Optical society of America B 29, 698 (2012)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Een geflipt elektron leeft langer (Dutch, meaning \"A flipped electron lives longer\")"
-  image: 
+  image:
   description: Popular-Science
   authors: G. de Lange, T. van der Sar, and R. Hanson
-  link: 
+  link:
     url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjrrs7_6b76AhWigf0HHZEZDe8QFnoECAcQAQ&url=https%3A%2F%2Fqutech.nl%2Fwp-content%2Fuploads%2F2017%2F04%2FNTVN-januari-2012-Een-geflipt-elektron-leeft-langer.pdf&usg=AOvVaw3tf6x0RfU5-VbYbiBKtimV
     display: Nederlands Tijdschrift voor Natuurkunde, January 2012
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Deterministic nanoassembly of a coupled quantum emitter–photonic crystal cavity system"
-  image: 
-  description: 
+  image:
+  description:
   authors: T. van der Sar, J. Hagemeier, W. Pfaff, E.C. Heeres, S. M. Thon, H. Kim, P. M. Petroff, T. H. Oosterkamp, D. Bouwmeester, and R. Hanson
-  link: 
-    url: 
+  link:
+    url:
     display: Applied Physics Letters 98, 193103 (2011)
   highlight: 0
   news2: See also [Arxiv:1008.4097](https://arxiv.org/abs/1008.4097)
 
 - title: "Spin dynamics in the optical cycle of single nitrogen-vacancy centres in diamond"
-  image: 
-  description: 
+  image:
+  description:
   authors: L. Robledo, H. Bernien, T. van der Sar, and R. Hanson
-  link: 
+  link:
     url: http://iopscience.iop.org/article/10.1088/1367-2630/13/2/025013/meta
-    display: New Journal of Physics 13, 025013 (2011) 
+    display: New Journal of Physics 13, 025013 (2011)
   highlight: 0
-  news2: 
+  news2:
 
 - title: "Quantumcircuitjes bouwen in een elektronenmicroscoop (Dutch, meaning \"Building quantum circuits in an electron microscope\")"
-  image: 
+  image:
   description: Popular-Science
   authors: T. van der Sar, E. C. Heeres, T. H. Oosterkamp, and R. Hanson
-  link: 
+  link:
     url: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQneO86r76AhXfhf0HHZnSBUAQFnoECAoQAQ&url=https%3A%2F%2Fqutech.nl%2Fwp-content%2Fuploads%2F2017%2F03%2FQuantumcircuitjes-bouwen-in-een-elektronenmicroscoop.pdf&usg=AOvVaw3QfrTnA0RlXD53JqO58GKP
     display: Nederlands Tijdschrift voor Natuurkunde, November 2009
   highlight: 0
 
 - title: "Nanopositioning of a diamond nanocrystal containing a single nitrogen-vacancy defect center"
-  image: 
-  description: 
+  image:
+  description:
   authors: T. van der Sar, E. C. Heeres, G. M. Dmochowski, G. De Lange, L. Robledo, T. H. Oosterkamp, and R. Hanson
-  link: 
+  link:
     url: http://aip.scitation.org/doi/10.1063/1.3120558
-    display: Applied Physics Letters 94, 173104 (2009) 
+    display: Applied Physics Letters 94, 173104 (2009)
   highlight: 0
   news2: See also [Arxiv:0903.3336](https://arxiv.org/abs/0903.3336)

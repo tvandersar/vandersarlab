@@ -5,11 +5,9 @@ excerpt: "van der Sar Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-
 # Group Members
 
- [(Check openings)]({{ site.url }}{{ site.baseurl }}/vacancies) for vacancies **!**
-
+ [Check openings]({{ site.url }}{{ site.baseurl }}/vacancies) for vacancies!
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
@@ -197,6 +195,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
 ## Management Support
 <a href="mailto:L.Groote@tudelft.nl">Lizzy Groote</a> is supporting us (and other groups) with management and administration.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Group2022_YAY.jpg" width="95%">
+</figure>
