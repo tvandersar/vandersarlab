@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Graduated PhDs
+## Alumni PhDs & postdocs
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -171,11 +171,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-4 clearfix">
 <h4>PhDs/postdocs/visitors</h4>
 {% for member in site.data.alumni_members %}
-{{ member.name }}
+{{ member.name }} - 
 {{ member.info }}
 {% endfor %}
 {% for member in site.data.alumni_visitors %}
-{{ member.name }}
+{{ member.name }} - 
+{{ member.info }}
 {% endfor %}
 </div>
 
